@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Turbulette n°1",
+    "price": 9.99,
+    "image" : "/images/gigoteuse_1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Turbulette n°2",
+    "price": 9.99,
+    "image" : "/images/gigoteuse_2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Turbulette n°3",
+    "price": 9.99,
+    "image" : "/images/gigoteuse_3.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Turbulette n°4",
+    "price": 9.99,
+    "image" : "/images/gigoteuse_4.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Turbulette n°5",
+    "price": 9.99,
+    "image" : "/images/gigoteuse_5.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Turbulette n°6",
+    "price": 9.99,
+    "image" : "/images/gigoteuse_6.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Turbulette n°7",
+    "price": 9.99,
+    "image" : "/images/gigoteuse_7.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Turbulette n°8",
+    "price": 9.99,
+    "image" : "/images/gigoteuse_8.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Turbulette n°9",
+    "price": 9.99,
+    "image" : "/images/gigoteuse_9.jpg"
+  }
+]

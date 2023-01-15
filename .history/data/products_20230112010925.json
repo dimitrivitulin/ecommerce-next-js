@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Turbulette n°1",
+    "price": 9.99,
+    "image" : "/image"
+  },
+  {
+    "id": 2,
+    "name": "Turbulette n°2",
+    "price": 9.99,
+    "image" : "/image"
+  },
+  {
+    "id": 3,
+    "name": "Turbulette n°3",
+    "price": 9.99,
+    "image" : "/image"
+  },
+  {
+    "id": 4,
+    "name": "Turbulette n°4",
+    "price": 9.99,
+    "image" : "/image"
+  },
+  {
+    "id": 5,
+    "name": "Turbulette n°5",
+    "price": 9.99,
+    "image" : "/image"
+  },
+  {
+    "id": 6,
+    "name": "Turbulette n°6",
+    "price": 9.99,
+    "image" : "/image"
+  },
+  {
+    "id": 7,
+    "name": "Turbulette n°7",
+    "price": 9.99,
+    "image" : "/image"
+  },
+  {
+    "id": 8,
+    "name": "Turbulette n°8",
+    "price": 9.99,
+    "image" : "/image"
+  }
+]
